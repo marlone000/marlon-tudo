@@ -1,0 +1,27 @@
+Faça um programa que peça 2 notas e calcule a média. Se a média for maior ou igual a 5, exibir "aprovado" senão exibir "reprovado"
+
+PROGRAMA: media_valor
+
+
+VAR
+     nota1 = int 
+     nota2 = int
+
+INÍCIO
+
+Escreva " informe uma nota "
+Leia nota1
+
+Escreva " informe outra nota "
+Leia nota2
+
+Escreva media  >= 5 
+Leia media
+
+se
+Escreva " aprovado "
+senão
+Escreva " reprovado"
+se fim
+FIM
+

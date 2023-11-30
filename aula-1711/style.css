@@ -1,0 +1,30 @@
+body,
+ul,
+li,
+p{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1.3rem;
+    font-family: Arial;
+}
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    /*define a sequencia logica dos arquivos*/
+}
+li{
+    height: 40vh;
+    flex-grow: 1;
+    /*define como vai se posicionar dentro de seu lugar*/
+}
+li:last-child{
+    flex-grow: 10;
+}
+img{
+    max-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    /* vai definir como o objeto-fit deve se ajustar pela altura e largura usadas*/
+    vertical-align: bottom;
+}

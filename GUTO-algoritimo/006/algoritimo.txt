@@ -1,0 +1,35 @@
+Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
+
+PROGRAMA: mais_barato
+
+VAR
+ prco1, preco2, preco3 : float 
+
+INÍCIO
+
+Escreva "informe o 1º preço"
+Leia preco1
+
+Escreva "informe o 2º preço"
+Leia preco2
+
+Escreva "informe o 3º preço"
+Leia preco3
+
+SE preco1 < preco2 ENTÃO
+   SE preco1 < preco3 ENTÃO
+   Escreva "preco1 é o menor" + preco1
+   FIM SE
+   FIM SE
+
+SE preco2 < preco1 ENTÃO
+   SE preco2 < preco3 ENTÃO
+   Escreva "preco2 é o menor" + preco2
+   FIM SE
+   FIM SE
+
+SE preco3 < preco2 ENTÃO
+   SE preco3 < preco1 ENTÃO
+   Escreva "preco3 é o menor" + preco3
+   FIM SE
+   FIM SE

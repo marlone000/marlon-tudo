@@ -1,0 +1,21 @@
+Faça um Programa que peça dois números e imprima o maior deles.
+
+PRORAMA: maior_numero 
+
+VAR 
+     numero1: int
+     numero2: int
+
+INÍCIO  
+     Escreva "informe um número"
+     Leia numero1
+
+     Escreva "informe outro número"
+     Leia numero2 
+
+     se numero1 > numero2 então 
+     Escreva " seu número é maior " + numero1 
+     senão
+     Escreva " seu número é maior " + numero2
+     FIM se
+       

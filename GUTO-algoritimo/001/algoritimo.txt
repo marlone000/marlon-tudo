@@ -1,0 +1,54 @@
+1.Faça um ptrograma que peça o nome e a idade do usuário,se for maior ou igual a 18 mostre a mensagem "Olá, NOME, pode dirigir" senão mostre a mensagem "NOME volte em alguns anos" 
+****** SE MAIS UTILIZADO **** 
+SE teste ENTÃO
+    resposta se o teste for verdadeiro
+SENÃO
+    resposta se o teste for falso
+FIM SE
+
+ 
+
+EXEMPLO:
+se idade >= 18 então
+    Escreva "Olá " + nome + " você pode dirigir"
+senão
+    Escreva nome + " volte em alguns anos"
+fim se
+
+ 
+
+ 
+
+
+****** SE SEM UM SENÃO **** 
+SE teste ENTÃO
+    resposta se o teste for verdadeiro
+FIM SE
+
+ 
+
+EXEMPLO:
+se idade >= 18 então
+    Escreva "Olá " + nome + " você pode dirigir"
+fim se
+
+ 
+
+ 
+
+****** SE COM MAIS CONDIÇÕES **** 
+SE teste ENTÃO
+    resposta se o teste for verdadeiro
+SENÃO SE teste ENTÃO
+    resposta se o teste for verdadeiro
+SENÃO
+    resposta se o teste for falso
+FIM SE
+
+ 
+
+EXEMPLO:
+se idade < 18 então
+    escreva "volte em alguns anos"
+senão se idade > 90 então 
+    escreva "acho que ja 

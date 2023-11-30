@@ -1,0 +1,18 @@
+2. Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+
+PROGRAMA: maior_valor
+
+
+VAR 
+    numero1 = int 
+
+
+INÍCIO
+  Escreva "informe um número"
+  Leia
+  se numero > 0 então
+  Escreva " seu número é positivo "
+  senão
+  Escreva " seu número é negativo "
+  fim se
+  fim

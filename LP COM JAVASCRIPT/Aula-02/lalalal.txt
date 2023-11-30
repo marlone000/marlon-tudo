@@ -1,0 +1,20 @@
+[21:27] GUTO RODRIGO DE SOUZA XAVIER
+    
+
+
+1. Faça um programa que peça o nome e a idade do usuário, se for maior ou igual a 18 mostre a mensagem "Olá, NOME, pode dirigir" senão mostre a mensagem "NOME Volte em alguns anos"
+2. Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+3. Faça um programa que peça 2 notas e calcule a média. Se a média for maior ou igual a 5, exibir "aprovado" senão exibir "reprovado"
+4. Faça um programa que peça 4 notas e calcule a média. Se a média for maior ou igual a 5, exibir "aprovado" senão exibir "reprovado"
+5. Faça um Programa que peça dois números e imprima o maior deles.
+6. Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
+7. Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+8. Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+9. Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).
+10. Você está programando um sistema para uma empresa de recursos humanos. De acordo com o tempo de experiência do candidato você deve informar ao recrutador o nível do candidato. Considere:
+    a.    Menor que 2 anos → Júnior
+    b.    Entre 2 e 5 anos → Pleno
+    c.    Acima de 5 anos → Sênior
+
+
+<https://teams.microsoft.com/l/message/19:McxKHn7wWblE-RW4gNCD0kkBbl46aTzsg21TQxbp1dA1@thread.tacv2/1699316867410?tenantId=6f9e3b1e-1809-444a-81d3-82d40a928812&amp;groupId=cebadcd7-8d81-40b6-876c-d4ad6c5821ab&amp;parentMessageId=1699316867410&amp;teamName=TI-22&amp;channelName=Geral&amp;createdTime=1699316867410&amp;allowXTenantAccess=false>
